@@ -1,6 +1,6 @@
 # my-notes
 
-![Profile photo](https://avatars.githubusercontent.com/u/129458608?s=400&u=08b6796380b8ec348d0b6f9bb321c921cc675785&v=4)
+![Profile photo](my%20photo.jpg)
 ###***Summary***
 ###### My name is **Mohammad Jadaan**, I am 27 years old and reside in Amman. I graduated from Al Balqa University with a bachelor's degree in Mechanical engineering.
 
