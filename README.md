@@ -26,5 +26,5 @@ ___
 ##### 2. make the design helpful for others.
 > so it must be simple and trying to reduce complexity as much its possible, and working on the best practice way so Don’t keep forcing developers to relearn the way your system works every time they look at a new piece of it.
 
-#####And if there is another good advice will be 
+##### And if there is another good advice will be 
 ***"Start small, improve it, then extend."***
