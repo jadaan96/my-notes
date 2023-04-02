@@ -1,7 +1,7 @@
 # my-notes
 
 ![Profile photo](my%20photo.jpg)
-###***Summary***
+### Summary
 ###### My name is **Mohammad Jadaan**, I am 27 years old and reside in Amman. I graduated from Al Balqa University with a bachelor's degree in Mechanical engineering.
 
 ###### In my last year of university, I began working in the ***E-commerce business*** using social networking platforms and Dropshipping via Shopify that when I faced several problems in modifying the site and I was finding the solution in programming so I learned A few of them, then i become so interesting in **web development** so i take this prepation course from [LTUC](https://www.ltuc.com/)
